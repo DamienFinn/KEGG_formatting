@@ -1,0 +1,3 @@
+Wisconsin_NP_12805.assembled.faa.ko	K01183	478
+Wisconsin_NP_12805.assembled.faa.ko	K01179	240
+Wisconsin_NP_12805.assembled.faa.ko	K01181	73
